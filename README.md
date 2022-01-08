@@ -40,6 +40,7 @@ Run:
 ```
 $ git clone https://github.com/Binancil/Fake-Hack-Shell-Script/
 cd Fake-Hack-Shell-Script
+clear
 bash injection.sh
 ```
 And there, we're done!
