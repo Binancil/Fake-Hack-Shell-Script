@@ -2,7 +2,7 @@
 Hey guys! It's Josh.
 This is a script I made in bash! (aka a shell script)
 It runs a command which makes it look like your pc is hacking something.
-Will say though, only works on Linux. Sorry mac and windows. If you do want to try this out,
+Will say though, only works on Linux. Sorry mac and windows. If you do want to try this out but don't have linux,
 get a virtual machine running!
 
 ## What it does
